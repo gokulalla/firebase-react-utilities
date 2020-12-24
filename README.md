@@ -1,1 +1,1 @@
-# firebase-react-utility
+# firebase-react-utilities
